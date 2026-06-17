@@ -34,9 +34,13 @@ Focuses on rapid mathematical prototyping and sensor fusion algorithms using Pyt
 * **Rapid_Prototyping_AHRS:** An advanced Attitude and Heading Reference System (AHRS) validating complex mathematics on the MPU6050. Features include Welford's algorithm for dynamic noise deadbands, ZUPT for gyro bias correction, and Simpson's 3/8 rule for high-fidelity yaw integration.
 * **Digital_Inclinometer_Accelerometry:** A 2-axis tilt sensor isolating the static 1g gravity vector to calculate Pitch and Roll, featuring a non-blocking UART command-line interface for dynamic hardware calibration.
 
-### 3. ARM Cortex-M4 (STM32F407VGT6)
-**(Repository currently being updated with CMSIS and bare-metal ARM configurations).*
+### 3. ARM Cortex-M0+ (RP2040 / Raspberry Pi Pico)
+Focuses on rapid mathematical prototyping and sensor fusion algorithms using MicroPython before low-level C implementation.
 
+* **Rapid_Prototyping_AHRS:** An advanced Attitude and Heading Reference System (AHRS) validating complex mathematics on the MPU6050. Features include Welford's algorithm for dynamic noise deadbands, ZUPT for gyro bias correction, and Simpson's 3/8 rule for high-fidelity yaw integration.
+* **Digital_Inclinometer_Accelerometry:** A 2-axis tilt sensor isolating the static 1g gravity vector to calculate Pitch and Roll, featuring a non-blocking UART command-line interface for dynamic hardware calibration.
+
+---
 
 ## Contact & Links
 * **Location:** Pachuca, Hidalgo, Mexico (Open to relocate)
