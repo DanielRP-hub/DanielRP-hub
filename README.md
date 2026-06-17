@@ -41,4 +41,4 @@ Focuses on rapid mathematical prototyping and sensor fusion algorithms using Pyt
 ## Contact & Links
 * **Location:** Pachuca, Hidalgo, Mexico (Open to relocate)
 * **LinkedIn:** [Insert your LinkedIn URL here]
-* **Email:** [Insert your professional email here]
+* **Email:** ruiz.pdaniel222.1821@gmail.com
