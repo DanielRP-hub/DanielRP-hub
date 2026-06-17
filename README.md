@@ -6,7 +6,7 @@ Final-year Mechatronics Engineering student specializing in embedded systems, mi
 My primary focus lies in developing robust firmware for automotive and industrial applications, emphasizing hardware interrupts, custom peripheral drivers, and complex sensor fusion algorithms.
 
 ## Technical Proficiencies
-* **Programming Languages:** C (Register-level & Bare-Metal), C++, Python / MicroPython, MATLAB.
+* **Programming Languages:** C (Register-level & Bare-Metal), Python / MicroPython, MATLAB.
 * **Microcontroller Architectures:** * AVR (ATmega2560)
   * ARM Cortex-M4 (STM32F407VGT6)
   * ARM Cortex-M0+ (RP2040 / Raspberry Pi Pico)
