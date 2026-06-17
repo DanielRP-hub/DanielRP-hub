@@ -37,10 +37,6 @@ Focuses on rapid mathematical prototyping and sensor fusion algorithms using Pyt
 ### 3. ARM Cortex-M4 (STM32F407VGT6)
 **(Repository currently being updated with CMSIS and bare-metal ARM configurations).*
 
-### 4. PIC Architecture
-* **PIC_BareMetal_Drivers:** Foundational repository showcasing bare-metal C configurations for basic GPIO, ADC, and Timer manipulations on PIC microcontrollers.
-
----
 
 ## Contact & Links
 * **Location:** Pachuca, Hidalgo, Mexico (Open to relocate)
